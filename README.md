@@ -6,3 +6,9 @@ The Web application displays the live market data of Ethereum cryptocurrency. Th
 The JSON data is then updated to MongoDB database through Python Scripts. 
 
 The Web Application is then created through Flask, Bootstrap and deployed through Heroku(the url has been successfully built and deployed but, there is an internal server error and the time of publishing this repository)
+
+Members:
+Abhishek Chandrasekaran
+Manikumaran Karthikeyan
+Manoghna Kola
+Sarvesh Kalyan Ganesh Murthy
